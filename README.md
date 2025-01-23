@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Kaggle Projects
 - 📫 How to reach me ...
-- 😄 Pronouns: Christ/Is/King
-- ⚡ Fun fact: I love cats but never owned one
 
 <!---
 Miguel-Correia34/Miguel-Correia34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
